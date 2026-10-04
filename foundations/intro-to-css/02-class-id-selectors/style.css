@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.para{
+    background-color: pink;
+    font-family: Verdana,"DejaVa Sans", sans-serif;
+}
+#d1{
+    color: blue;
+    font-size: 36px;
+}
+.para.m{
+    font-size: 24px;
+}
+#d2{
+    background-color: rgb(120, 237, 147);
+    font-weight: bold;
+    font-size: 24px;
+}
